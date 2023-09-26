@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://speranza.oss-cn-beijing.aliyuncs.com/imgs/2.png);
-    --darkmode-bg:url(https://speranza.oss-cn-beijing.aliyuncs.com/imgs/2.png);
-    --mobileday-bg: url(https://speranza.oss-cn-beijing.aliyuncs.com/imgs/2.png);
-    --mobilenight-bg: url(https://speranza.oss-cn-beijing.aliyuncs.com/imgs/2.png);
+    --default-bg: url(https://muyio-file.oss-cn-beijing.aliyuncs.com/20230613/5b850ea7-38e1-4cd4-8904-1b935396de28.png);
+    --darkmode-bg:url(https://muyio-file.oss-cn-beijing.aliyuncs.com/20230613/5b850ea7-38e1-4cd4-8904-1b935396de28.png);
+    --mobileday-bg: url(https://muyio-file.oss-cn-beijing.aliyuncs.com/20230613/5b850ea7-38e1-4cd4-8904-1b935396de28.png);
+    --mobilenight-bg: url(https://muyio-file.oss-cn-beijing.aliyuncs.com/20230613/5b850ea7-38e1-4cd4-8904-1b935396de28.png);
   }`;
 }
 // 切换背景主函数

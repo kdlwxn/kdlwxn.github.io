@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://muyio.love/personal/about/index.html</loc>
+    
+    <lastmod>2023-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/life/music/index.html</loc>
+    
+    <lastmod>2023-09-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://muyio.love/social/link/index.html</loc>
     
     <lastmod>2023-09-26</lastmod>
@@ -101,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/life/music/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://muyio.love/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -147,15 +156,6 @@
   
   <url>
     <loc>https://muyio.love/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://muyio.love/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
