@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://muyio.love/life/bangumis/index.html</loc>
+    
+    <lastmod>2023-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://muyio.love/personal/about/index.html</loc>
     
     <lastmod>2023-09-26</lastmod>
@@ -56,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/categories/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://muyio.love/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/box/nav/index.html</loc>
+    <loc>https://muyio.love/categories/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/life/games/index.html</loc>
+    <loc>https://muyio.love/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/life/movies/index.html</loc>
+    <loc>https://muyio.love/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,16 +119,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://muyio.love/site/time/index.html</loc>
+    <loc>https://muyio.love/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -146,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://muyio.love/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://muyio.love/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/personal/bb/index.html</loc>
+    <loc>https://muyio.love/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -184,7 +184,7 @@
 
   <url>
     <loc>https://muyio.love/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,28 +192,28 @@
   
   <url>
     <loc>https://muyio.love/tags/%E5%8A%A8%E6%BC%AB/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://muyio.love/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://muyio.love/tags/Markdown/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://muyio.love/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -222,14 +222,14 @@
   
   <url>
     <loc>https://muyio.love/categories/%E4%BA%8C%E6%AC%A1%E5%85%83/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://muyio.love/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <lastmod>2023-09-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
