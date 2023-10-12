@@ -3,7 +3,7 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'http://101.200.167.30:5230/u/1/memo?creatorId=1&tag==生活日记&limit=10' // 修改api，记得带参数page
+let Url = 'http://101.200.167.30:5230/api/v1/memo?creatorId=1&tag==生活日记&limit=10' // 修改api，记得带参数page
 
 
 window.addEventListener('DOMContentLoaded', () => {

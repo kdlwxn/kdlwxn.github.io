@@ -3,7 +3,7 @@ let total = 0
 let nowNum = 0
 let items = []
 let page = 1
-let Url = 'https://kkapi.fomal.cc/api/ispeak?author=6319fedef46fae97dcfa5ee2&page=' // 记住替换为你的API链接
+let Url = 'http://101.200.167.30:5230/api/v1/memo?creatorId=1&tag==生活日记&limit=10' // 记住替换为你的API链接
 
 
 window.addEventListener('DOMContentLoaded', () => {
