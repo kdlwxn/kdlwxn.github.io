@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://muyio.love/posts/d40fca0e.html</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/posts/37e9dfb.html</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/posts/6e8df429.html</loc>
+    
+    <lastmod>2023-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://muyio.love/site/time/index.html</loc>
     
     <lastmod>2023-10-13</lastmod>
@@ -39,15 +66,6 @@
   
   <url>
     <loc>https://muyio.love/categories/index.html</loc>
-    
-    <lastmod>2023-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://muyio.love/posts/37e9dfb.html</loc>
     
     <lastmod>2023-10-11</lastmod>
     
@@ -164,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/posts/6e8df429.html</loc>
-    
-    <lastmod>2023-09-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://muyio.love/posts/c7c763ed.html</loc>
     
     <lastmod>2023-09-22</lastmod>
@@ -191,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/box/gallery/index.html</loc>
+    <loc>https://muyio.love/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -200,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://muyio.love/box/animation/index.html</loc>
+    <loc>https://muyio.love/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -227,6 +236,15 @@
   </url>
   
   <url>
+    <loc>https://muyio.love/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://muyio.love/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -237,15 +255,6 @@
   
   <url>
     <loc>https://muyio.love/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://muyio.love/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -265,7 +274,7 @@
 
   <url>
     <loc>https://muyio.love/</loc>
-    <lastmod>2023-10-13</lastmod>
+    <lastmod>2023-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -273,14 +282,42 @@
   
   <url>
     <loc>https://muyio.love/tags/%E5%8A%A8%E6%BC%AB/</loc>
-    <lastmod>2023-10-13</lastmod>
+    <lastmod>2023-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://muyio.love/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/</loc>
-    <lastmod>2023-10-13</lastmod>
+    <lastmod>2023-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/tags/%E6%A0%A1%E5%9B%AD/</loc>
+    <lastmod>2023-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/tags/%E9%9D%92%E6%98%A5/</loc>
+    <lastmod>2023-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/tags/%E6%81%8B%E7%88%B1/</loc>
+    <lastmod>2023-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/tags/%E8%BD%BB%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2023-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -289,7 +326,14 @@
   
   <url>
     <loc>https://muyio.love/categories/%E4%BA%8C%E6%AC%A1%E5%85%83/</loc>
-    <lastmod>2023-10-13</lastmod>
+    <lastmod>2023-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://muyio.love/categories/%E8%BD%BB%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2023-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
